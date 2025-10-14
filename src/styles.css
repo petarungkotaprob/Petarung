@@ -1,0 +1,5 @@
+html, body, #root { height: 100%; margin: 0; font-family: Arial, Helvetica, sans-serif; }
+.leaflet-container { background: #fff; }
+#info-panel { background:#fafafa; overflow-y:auto; }
+button { cursor: pointer; background:#0f172a; color:white; border:none; border-radius:4px; }
+button:hover { background:#1e293b; }
